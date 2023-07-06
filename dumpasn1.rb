@@ -6,8 +6,8 @@ require "formula"
 
 class Dumpasn1 < Formula
   homepage "http://www.cs.auckland.ac.nz/~pgut001/dumpasn1.c"
-  url "http://ftp.de.debian.org/debian/pool/main/d/dumpasn1/dumpasn1_20130608.orig.tar.gz"
-  sha1 "a9f1df49612dffda87563ea7b93633e3068b1f7e"
+  url "http://ftp.de.debian.org/debian/pool/main/d/dumpasn1/dumpasn1_20210212.orig.tar.gz"
+  sha1 "31cda461b005b9a5d4954f832b0b60b21039cef0"
 
   # depends_on "cmake" => :build
   # depends_on :x11 # if your formula requires any X11/XQuartz components
